@@ -29,8 +29,8 @@ To view the project locally, you can either open the project files in your code 
 
 Please refer to `mockup.jpg` in the repository.
 
-- [ ] Build site to the `mockup.jpg`.
-- [ ] Find and replace the quote in `index.html`
+- [X] Build site to the `mockup.jpg`.
+- [X] Find and replace the quote in `index.html`
 
 ### Submitting Your Work
 
